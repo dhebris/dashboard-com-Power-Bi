@@ -1,6 +1,18 @@
 Vamos auxiliar a Buscante, um e-commerce de livros, no acompanhamento de métricas por meio da criação de um Dashboard com um painel organizado, utilizando métricas e elementos visuais apropriados. Mas antes precisamos entender qual a base de dados que irá nos ajudar na construção desse projeto.
 
-
 Então, para começar, você pode baixar essa [base de dados](https://caelum-online-public.s3.amazonaws.com/2955-dashboard-power-b/dashboard-power-bi_visualizando-dados_.xlsx) e descompactar em sua máquina.
 
 Para isso, é preciso ir em configurações do Google Drive, marque a opção **Converter arquivos enviados para o formato do editor do Documentos Google** e clique em **Concluir**. Feito isso, podemos importar a base de dados para o Google Drive.
+
+
+---
+
+## **Criando visuais**
+
+A Buscante tem o desejo de acompanhar três aspectos diferentes da empresa:
+
+- Resumo do e-commerce
+- Acompanhamento de vendas
+- Perfil do cliente
+
+---
